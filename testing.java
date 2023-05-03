@@ -290,30 +290,3 @@ public class testing {
         }
     }
     }
-
-
-
-
-
-
-
-
-
-/*------------------------------------------------- print out speed in each direction ---------------------------------------------------
- System.out.print("\nnorth: ");
-        for(Vehicle v: north){
-            System.out.print(v.getSpeed());
-        }
-        System.out.print("\nsouth: ");
-        for(Vehicle v: south){
-            System.out.print(v.getSpeed());
-        }
-        System.out.print("\nwest: ");
-        for(Vehicle v: west){
-            System.out.print(v.getSpeed());
-        }
-        System.out.print("\neast: ");
-        for(Vehicle v: east){
-            System.out.print(v.getSpeed());
-        }
--------------------------------------------------------------------------------------------------------------------------------------------- */
